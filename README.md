@@ -1,6 +1,7 @@
 # Colour-YT
-A new userstyle to add colour to your videos and better looking subtitles :)
+A new css remodel of the overall look of Youtube through userstyles(stylus addon) to add colour to your videos and better looking subtitles :)
 
+### Userstyles website install link
 https://userstyles.world/style/1302/colour-yt
 
 ![image](https://github.com/PurpleDDive/Colour-YT/blob/main/Screenshots/Home-page.jpg)
