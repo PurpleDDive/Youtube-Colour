@@ -2,7 +2,7 @@
 A new css remodel of the overall look of Youtube through userstyles (stylus addon) to add better-looking subtitles and colour to your videos :)
 
 ### Userstyles website install link
-[https://userstyles.world/style/1302/colour-yt](https://userstyles.world/style/1302/youtube-colour)
+https://userstyles.world/style/1302/youtube-colour
 
 ![image](https://github.com/PurpleDDive/Colour-YT/blob/main/Screenshots/Home-page.jpg)
 
