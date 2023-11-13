@@ -15,11 +15,14 @@ https://userstyles.world/style/1302/youtube-colour
 ## Home Page
 ![image](https://github.com/PurpleDDive/Colour-YT/blob/main/Screenshots/Home-page.png)
 
-## Video
+## Video Player & Recomendations
 ![image](https://github.com/PurpleDDive/Colour-YT/blob/main/Screenshots/Video-watch.png)
 
-## Subtitles
+## Modern Subtitles
 ![image](https://github.com/PurpleDDive/Colour-YT/blob/main/Screenshots/Video-subtitles.png)
+
+## Multi-Colour Dynamic Video Bar
+![image](https://github.com/PurpleDDive/Youtube-Colour/blob/main/Screenshots/Video-bar.png)
 
 ## Miniplayer 1
 ![image](https://github.com/PurpleDDive/Colour-YT/blob/main/Screenshots/Miniplayer-1.jpg)
