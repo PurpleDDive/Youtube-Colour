@@ -12,20 +12,17 @@ https://userstyles.world/style/1302/youtube-colour
 
 ---
 
-## Home Page
+## Home Page - Custom Borders
 ![image](https://github.com/PurpleDDive/Colour-YT/blob/main/Screenshots/Home-page.png)
 
-## Video Player & Recomendations
+## Alternative Video Player, Text and Badges 
 ![image](https://github.com/PurpleDDive/Colour-YT/blob/main/Screenshots/Video-watch.png)
 
-## Modern Subtitles
+## Modern Subtitles & Title Position 
 ![image](https://github.com/PurpleDDive/Colour-YT/blob/main/Screenshots/Video-subtitles.png)
 
 ## Multi-Colour Dynamic Video Bar
 ![image](https://github.com/PurpleDDive/Youtube-Colour/blob/main/Screenshots/Video-bar.png)
 
-## Miniplayer 1
-![image](https://github.com/PurpleDDive/Colour-YT/blob/main/Screenshots/Miniplayer-1.jpg)
-
-## Miniplayer 2
-![image](https://github.com/PurpleDDive/Colour-YT/blob/main/Screenshots/Miniplayer-2.jpg)
+## Home Page- Video Preview Player & Miniplayer
+![image](https://github.com/PurpleDDive/Youtube-Colour/blob/main/Screenshots/Home-video_player.png)
