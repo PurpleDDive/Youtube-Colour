@@ -1,7 +1,7 @@
 # Youtube Colour
-A new css remodel of the overall look of Youtube through userstyles (stylus addon) to add better-looking subtitles and more colour to your videos. It now works with the newest UI.
+A new css remodel of the overall look of Youtube through userstyles (stylus addon) to add better-looking subtitles and more colour to your videos. The style recieves new updates to work with the newest UI as Youtube keeps changing.
 
-***Although this was originally intended to be used in dark mode, recent updates will focus more on light mode aesthetics and bug fixes.***
+***This style was made with dark mode in mind, and new updates will also include light mode changes. As Youtube keeps updating the UI, new bug fixes and improvements will be rolled-out to increase stability and aesthetics.***
 
 ---
 
