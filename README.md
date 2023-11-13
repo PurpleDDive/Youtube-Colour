@@ -13,13 +13,13 @@ https://userstyles.world/style/1302/youtube-colour
 ---
 
 ## Home Page
-![image](https://github.com/PurpleDDive/Colour-YT/blob/main/Screenshots/Home-page.jpg)
+![image](https://github.com/PurpleDDive/Colour-YT/blob/main/Screenshots/Home-page.png)
 
 ## Video
-![image](https://github.com/PurpleDDive/Colour-YT/blob/main/Screenshots/Video-watch.jpg)
+![image](https://github.com/PurpleDDive/Colour-YT/blob/main/Screenshots/Video-watch.png)
 
 ## Subtitles
-![image](https://github.com/PurpleDDive/Colour-YT/blob/main/Screenshots/Video-subtitles.jpg)
+![image](https://github.com/PurpleDDive/Colour-YT/blob/main/Screenshots/Video-subtitles.png)
 
 ## Miniplayer 1
 ![image](https://github.com/PurpleDDive/Colour-YT/blob/main/Screenshots/Miniplayer-1.jpg)
